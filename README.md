@@ -3,7 +3,7 @@ Rest Service .Net core 6.0 .
 
 Entity Framework for Authentication DB .
 
-Dapper for Data DB. Done for a university project regarding Application Development
+Dapper for Data DB. Done regarding university module Application Development
 
 Deployed On Azure
 
